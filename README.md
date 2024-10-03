@@ -27,4 +27,4 @@ security and cloud computing with an emphasis on AWS.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
-![AWS](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=amazonwebservices)
+![AWS](https://img.shields.io/badge/-AWS-333?style=for-the-badge&logo=amazonwebservices)
