@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning ...
+
+My name is Oksana Muzalevska. 
+I am currently learning the basics of web development (HTML, CSS, JavaScript), 
+security and cloud computing with an emphasis on AWS.
