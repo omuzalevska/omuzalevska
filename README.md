@@ -33,9 +33,11 @@ security and cloud computing with an emphasis on AWS.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omuzalevska&layout=compact&theme=dark)
 
 #### Contacts
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/OksanaMuzalevska)
+[![linkedin](https://img.shields.io/badge/-linkedin-333?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oksanamuzalevska/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/omuzalevska)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/OksanaMuzalevska)
 [![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/oksanamuzalevska)
 
 <!--### Statistics on GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=morphIsmail&show_icons=true&hide=prs,issues,contribs&theme=dark)-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=morphIsmail&show_icons=true&hide=prs,issues,contribs&theme=dark)
+.[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oksanamuzalevska/)-->
