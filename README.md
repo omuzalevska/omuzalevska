@@ -29,5 +29,10 @@ security and cloud computing with an emphasis on AWS.
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![AWS](https://img.shields.io/badge/-AWS-333?style=for-the-badge&logo=amazonwebservices)
 
+### Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/OksanaMuzalevska)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/omuzalevska)
+[![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/oksanamuzalevska)
+
 <!--### Statistics on GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=morphIsmail&show_icons=true&hide=prs,issues,contribs&theme=dark)-->
