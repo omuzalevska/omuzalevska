@@ -29,5 +29,5 @@ security and cloud computing with an emphasis on AWS.
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![AWS](https://img.shields.io/badge/-AWS-333?style=for-the-badge&logo=amazonwebservices)
 
-### Statistics on GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=morphIsmail&show_icons=true&hide=prs,issues,contribs&theme=dark)
+<!--### Statistics on GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=morphIsmail&show_icons=true&hide=prs,issues,contribs&theme=dark)-->
