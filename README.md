@@ -21,6 +21,8 @@ My name is Oksana Muzalevska.
 I am currently learning the basics of web development (HTML, CSS, JavaScript), 
 security and cloud computing with an emphasis on AWS.
 
+Así que deséame inspiración! 🦄🪽✨
+
 ### My technology stack
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
